@@ -41,13 +41,19 @@
 
 | Programming language | Usage percentage |
 |-------------------|---------------|
-| JavaScript | 2.44% |
-| Python | 51.22% |
-| CSS | 2.44% |
-| HTML | 2.44% |
-| Java | 12.20% |
-| Jupyter Notebook | 4.88% |
-| Shell | 9.76% |
-| Batchfile | 4.88% |
-| C++ | 9.76% |
+| JavaScript | 1.96% |
+| Python | 43.14% |
+| CSS | 1.96% |
+| HTML | 1.96% |
+| Java | 11.76% |
+| Jupyter Notebook | 3.92% |
+| Shell | 9.80% |
+| Batchfile | 3.92% |
+| C++ | 9.80% |
+| Dart | 1.96% |
+| CMake | 1.96% |
+| Swift | 1.96% |
+| Objective-C | 1.96% |
+| C | 1.96% |
+| Kotlin | 1.96% |
 </div>
